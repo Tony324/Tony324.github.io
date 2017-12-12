@@ -1,0 +1,17 @@
+h1{
+	color: white;
+	font-family: Arial;
+	font-size: 14;
+}
+body {
+	background-image: url("../img/landscape4.jpeg");
+	background-size: cover;
+}
+.red {
+	width: 150px;
+	height: 100px;
+	position: fixed;
+	bottom: 20px;
+	left: 30px;
+}
+.

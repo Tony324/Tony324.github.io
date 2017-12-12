@@ -1,0 +1,41 @@
+nav-link {
+	color: white;
+	font-family: Arial;
+	font-size: 14;
+}
+.nav-title {
+	color: white;
+	font-family: Arial;
+	font-size: 14;
+}
+.heading {
+	color: white;
+	font-family: Arial;
+	font-size: 14;
+	position: relative;
+	top: 43vh;
+	left: 15vh;
+}
+.navbar{
+	color: white;
+	font-family: Arial;
+	font-size: 14;
+	background-color: lightgreen;
+}
+.nav a hover{
+	color: brown;
+}
+h1{
+	color: white;
+	font-family: Arial;
+	font-size: 14;
+}
+body {
+	background-color: lightgrey;
+	background-size: cover;
+}
+.card-title {
+	color: black;
+	font-family: Arial;
+	font-size: 12;
+}
